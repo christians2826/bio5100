@@ -1,0 +1,240 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
+    "section": "",
+    "text": "I’m Christian Keith Rebultan Suarez, a biologist interested in genetics, genomics, and molecular biology."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Home",
+    "section": "EDUCATION",
+    "text": "EDUCATION\nCalifornia State University, Cal Poly Pomona, Pomona, CA\nBachelor of Biology; GPA: 3.97, Expected May 2026\nRelevant Coursework: Bioinformatics, Biostatistics, Plant Genetics, Advanced Human Genetics, Undergraduate Research Plant (Genetics), Undergraduate Research (Entomology), Organic Chemistry Series"
+  },
+  {
+    "objectID": "index.html#honors-and-grants",
+    "href": "index.html#honors-and-grants",
+    "title": "Home",
+    "section": "HONORS AND GRANTS",
+    "text": "HONORS AND GRANTS\n\nAgricultural Research Institute Fellowship (2024 – Present)\nSTAR’s Program (2025 – Present)\nHatchery Project Grant (2024 – Present)\nDean’s List (2022 – Present)\nPresident’s List (2022 – Present)"
+  },
+  {
+    "objectID": "index.html#research-experience",
+    "href": "index.html#research-experience",
+    "title": "Home",
+    "section": "RESEARCH EXPERIENCE",
+    "text": "RESEARCH EXPERIENCE\nUCLA Bruins in Genomics (B.I.G.) – Genetics\nResearcher, June 2025 – August 2025\nAdvisor: Dr. Jimmy Hu\n\nClustered cells to identify differentially expressed gene markers in different populations with R (Seurat). Analyzed newfound signaling interactions utilizing CellChat with R. Identified transcriptional regulatory networks within clusters to understand epithelial to mesenchymal cell transitions in mouse incisors.\nStudied lineage trajectory using scVelo in Python to learn how one cell population may arise from another population.\n\nCalifornia State University, Cal Poly Pomona, Biological Sciences Department – Genetics\nUndergraduate Researcher/Author, March 2024 – Present\nAdvisor: Dr. Bharti Sharma\n\nReference-based transcriptome analysis was performed using the R pipeline. Developed project goals and methods, identified and investigated temporal carpel stages with RNA sequencing and electron microscopy work.\nEngaged in introductory workshops and lab tour to improve synthesis and presented research and methodological processes in genomics to numerous boards for professionals in their respective fields with accordance to the Agricultural Research Institute Fellowship and Hatchery Project.\nThrough transcriptomic profiling and scanning electron microscopy, studied the ABCDE model; MADS-BOX genes that govern carpel development, tracing how shifts in gene networks may have driven the diversification of reproductive structures across angiosperms.\n\nCalifornia State University, Cal Poly Pomona, Biological Sciences Department – Entomology\nUndergraduate Researcher, May 2024 – Present\nAdvisor: Dr. Joan Leong\n\nDeveloped procedure to record target Xenoglossa and Peponapis squash bees in squash flowers and collect stamen for analysis. Collaborated with graduate students to analyze pollen for electron microscopy to determine environmental conditions and influence.\nMeticulously analyzed bee behavior videos and inputted them for further manneristic investigations.\n\nOakcrest Institute of Science, Pathways to STEM Program\nResearcher, December 2023 – January 2024\nAdvisor: Dr. Paul Webster\n\nAutonomously designed lab protocol and procedures used in experiments. Conducted immunofluorescence microscopy and electron microscopy. Utilized cryostat to collect samples of human tissue.\nCollaborated with other undergraduate researchers to investigate cell shape and size on cheek cell function."
+  },
+  {
+    "objectID": "index.html#presentations",
+    "href": "index.html#presentations",
+    "title": "Home",
+    "section": "PRESENTATIONS",
+    "text": "PRESENTATIONS\n\nSouthern California Conferences for Undergraduate Research, Channel Islands, CA, November 2025, Christian, S. “Comparative Transcriptomic Analysis of Pre- and Post-Pollination Carpel Development in Aquilegia coerulea” (poster).\nNational Diversity in STEM Conference, Columbus, OH, October 2025, Christian, S. “Investigating the Genetic and Molecular Transitions in Carpels Pre- and Post- Pollination in Aquilegia” (poster).\nBruins in Genomics Summer Symposium, Los Angeles, CA, August 2025, Christian, S. “Investigating the Effects of Microtubules on Gene Expression in the Mouse Dental Epithelium using scRNA-seq” (poster).\nResearch, Scholarship, and Creative Activities Conference, Pomona, CA, March 2025, Christian , S; Marianellie, B; Rene, R; Ana, A. “Investigating the Genetic and Molecular Transitions in Carpels Pre-and Post- Pollination in Aquilegia” (poster).\nAgricultural Research Institute Annual Workshop, Sacramento, CA, November 2024. Christian S. “Studying floral organ maturation in Aquilegia a horticultural plant” (lecture).\nPathways to STEM Reflection Session, Monrovia, CA, December 2023. Christian, S; Celeste, A. “Exploring and measuring cell volumes and their implied functions – a comprehensive review” (lecture).\nHatchery Project Proposal Phase III, Pomona, CA, February 2025, Mankirat, P; Ana, E; Rene, R; Christian, S. “Understanding the Genetic and Molecular Changes in Carpels Pre and Post Pollination in Aquilegia” (presentation)."
+  },
+  {
+    "objectID": "index.html#leadership-service",
+    "href": "index.html#leadership-service",
+    "title": "Home",
+    "section": "LEADERSHIP / SERVICE",
+    "text": "LEADERSHIP / SERVICE\nSociety for Advancement of Chicanos/Hispanics and Native Americans in Science\nTreasurer, Secretary, Workshops Lead, November 2024 – Present\n\nRecord meeting notes and correspond with collaboration organizations. Develop and execute biology projects locally as citizen scientists.\nOrganize events to unite local students interested in biology and present student projects in synthetic biology. Design and teach biology workshops to students.\n\nHatchery Project\nPrimary Researcher, August 2024 – Present\n\nAutonomously designed protocol for benchwork. Communicated intricacies of scientific literature to graduate and doctorate level researchers. Consistently presented research to conferences and workshops.\nConducted electron microscopy, RNA qPCR analysis/extraction, and alignment of gene sets using MacVector.\n\nBiology Learning Assistant Program\nTutor/Teaching Assistant, January 2024 – December 2025\n\nAssisted professors in designing their class curriculum. Taught students on foundational biology. Composed lesson plans and study guides for students.\nSimplified biological concepts such as biostatistics using real-world examples.\n\nAchieve Scholar’s Program\nResearch Mentor, August 2025–Present\n\nConducted workshops on research techniques, computational analysis and scientific writing. Lead classes of students to produce well-developed posters to research conferences.\nEstablished a learning environment where students could communicate with faculty.\n\nAspire-Learn-Mentor-Achieve (ALMA) Program\nVolunteer, June 2025 – Present\n\nDesigned and coordinated lesson plans to help students craft competitive college applications and navigate FAFSA and Dream Act processes.\nFostered a welcoming mentor environment that supported 100% of participating mentees in successfully pursuing higher education during the program’s first semester.\n\nBronco Navigator Mentor Collective\nMentor, March 2025 – Present\n\nProvided a platform to collaborate with institutions like Cal Poly Pomona and designed programs to tailor to mentee’s specific needs.\nEnhanced student success by facilitating meaningful connections and providing access to resources in research.\n\nRed Cross\nDisaster Care Volunteer, May 2025 – Present\n\nProvide health service intervention, focus on assessment, care and support of those affected by disasters.\nCollaborated with community-based organizations and government agencies to support long term recovery effort.\n\nSheperd’s Pantry\nData Organizer, April 2025 – Present\n\nComputationally analyzed and ordered inventory lists, food distribution systems, and volunteer activity.\nDistributed food and produce to low-income households and homeless.\n\nErnest Prete Jr. Fellowship Program\nVolunteer, March 2025 – June 2025\n\nEngaged with students from an elementary school in our community to support the sustainability of urban gardening.\nGuided students with special needs in their education curriculum and designed lesson plans catered to their needs.\n\nStarbucks Coffee Shop\nShift Lead, December 2022 – December 2024\n\nGuide partners in efficiently fulfilling their positions. Organize events to expose partners to different opportunities Starbucks offers.\nManaged cash, inventory, and distribution of orders. Encouraged an environment of comfort and collaboration. Ensured every partner’s individual needs were met.\n\nUncle Chuang’s\nShift Lead, December 2021 – December 2022\n\nPlanned shipping orders and inventory distribution. Communicated with customers to ensure quality of product. Advertised quality of sales to board and upper-level employers.\nEnsured understanding despite language barriers."
+  },
+  {
+    "objectID": "index.html#technical-skills",
+    "href": "index.html#technical-skills",
+    "title": "Home",
+    "section": "TECHNICAL SKILLS",
+    "text": "TECHNICAL SKILLS\nComputational: R, Python, Linux, Excel, Microsoft Office Suite, MacVector, NCBI BLAST, Galaxy\nWet Laboratory: RNA and QPCR analysis of Aquilegia and Arabidopsis genome, virus induced gene silencing of target protein in Aquilegia using tobacco rattle virus (TRV), development and use of cryostat protocol, agar plating and gel development for inflorescence microscopy, single-cell RNA sequencing"
+  },
+  {
+    "objectID": "index.html#membership",
+    "href": "index.html#membership",
+    "title": "Home",
+    "section": "MEMBERSHIP",
+    "text": "MEMBERSHIP\n\nSociety for Advancement of Chicanos/Hispanics and Native Americans in Science, Treasurer (2024–Present)\nBiotechnology Club, Member (2024–Present)\nCésar E. Chávez Center for Higher Education (2025–Present)\nNative American Student Center (2025–Present)\nBronco Lifting Club, Member, Cal Poly Pomona (2022–Present)\nKey Medical Resources (2022)"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "Through Dr. Jimmy Hu at  UCLA’s B.I.G. program, my research investigated how regenerative populations, dental epithelial stem cells in the labial cervical loop of the mouse incisor, function differently in spastin overexpression; an enzyme involved in microtubule dynamics, which severs the microtubules to reduce Amelogenin, E-Cadherin, and Sonic Hedgehog (Shh) expression, generating a mutant population of altered cell arrangement. The analysis of the mutants was an ideal playground to learn computational scRNA-sequencing skills. However, early on, the issue was tackling the statistical effects of a small spastin-overexpressing population. After attempting a myriad of methods, I pivoted to incorporate pseudobulk differential expression and ranked-gene scoring to stabilize variance and reduce bias from the small sample size. Interestingly, the spastin-overexpressed population appeared to be more prevalent in the differentiated ameloblasts despite having impaired proliferative populations, prompting yet another challenge.\nThis led me to conduct a CellChat and SCENIC workflow focusing on the interactions between these cell populations, and I found that proliferative populations retained high levels of T-box transcription factor 1 (TBX1). Additionally, other undifferentiated populations retained upregulated proliferation pathways. Although the technical outcome was not what was expected, the experience strengthened my scientific resilience and ability to pivot in the face of experimental failure. I hypothesize that Tbx1 and Mafb are essential transcription factors in cell differentiation of the labial cervical loop, and further study can illuminate pathways relevant to tissue repair and gene therapy, transforming abstract mechanisms I investigate into actionable science."
+  },
+  {
+    "objectID": "research.html#quarto",
+    "href": "research.html#quarto",
+    "title": "Research",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+  },
+  {
+    "objectID": "research.html#running-code",
+    "href": "research.html#running-code",
+    "title": "Research",
+    "section": "Running Code",
+    "text": "Running Code\nWhen you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n1 + 1\n\n[1] 2\n\n\nYou can add options to executable code like this\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed)."
+  },
+  {
+    "objectID": "presentations.html",
+    "href": "presentations.html",
+    "title": "Presentations",
+    "section": "",
+    "text": "Research Posters\nSouthern California Conferences for Undergraduate Research\nChannel Islands, CA — November 2025\nComparative Transcriptomic Analysis of Pre- and Post-Pollination Carpel Development in Aquilegia coerulea\nInvestigated transcriptomic differences in carpel development before and after pollination, highlighting key gene expression changes.\nNational Diversity in STEM Conference\nColumbus, OH — October 2025\nInvestigating the Genetic and Molecular Transitions in Carpels Pre- and Post-Pollination in Aquilegia\nPresented findings on molecular and genetic transitions during reproductive development in floral tissues.\nBruins in Genomics Summer Symposium\nLos Angeles, CA — August 2025\nInvestigating the Effects of Microtubules on Gene Expression in the Mouse Dental Epithelium using scRNA-seq\nUsed single-cell RNA sequencing to analyze how microtubule disruption affects gene expression and cell differentiation.\nResearch, Scholarship, and Creative Activities Conference\nPomona, CA — March 2025\nInvestigating the Genetic and Molecular Transitions in Carpels Pre- and Post-Pollination in Aquilegia\nCollaborative project examining transcriptional changes in floral development using experimental and computational approaches.\n\n\nTalks & Presentations\nAgricultural Research Institute Annual Workshop\nSacramento, CA — November 2024\nStudying Floral Organ Maturation in Aquilegia\nPresented research on developmental processes and genetic regulation of floral organ maturation.\nPathways to STEM Reflection Session\nMonrovia, CA — December 2023\nExploring and Measuring Cell Volumes and Their Implied Functions – A Comprehensive Review\nReviewed relationships between cell size, structure, and biological function across systems.\n\n\nProject Presentation\nHatchery Project Proposal – Phase III\nPomona, CA — February 2025\nUnderstanding the Genetic and Molecular Changes in Carpels Pre- and Post-Pollination in Aquilegia\nProposed a research framework to study molecular changes in reproductive development, including experimental design and hypotheses."
+  },
+  {
+    "objectID": "presentations.html#quarto",
+    "href": "presentations.html#quarto",
+    "title": "Presentations",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+  },
+  {
+    "objectID": "presentations.html#running-code",
+    "href": "presentations.html#running-code",
+    "title": "Presentations",
+    "section": "Running Code",
+    "text": "Running Code\nWhen you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n1 + 1\n\n[1] 2\n\n\nYou can add options to executable code like this\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed)."
+  },
+  {
+    "objectID": "research.html#ucla-poster",
+    "href": "research.html#ucla-poster",
+    "title": "Research",
+    "section": "",
+    "text": "!UCLA Poster\nUCLA: My earlier work improved crops for underprivileged communities, but I wanted to make a deeper impact by uncovering the molecular mechanisms that allow life to regenerate. Through Dr. Jimmy Hu at  UCLA’s B.I.G. program, my research investigated how regenerative populations, dental epithelial stem cells in the labial cervical loop of the mouse incisor, function differently in spastin overexpression; an enzyme involved in microtubule dynamics, which severs the microtubules to reduce Amelogenin, E-Cadherin, and Sonic Hedgehog (Shh) expression, generating a mutant population of altered cell arrangement. The analysis of the mutants was an ideal playground to learn computational scRNA-sequencing skills. However, early on, the issue was tackling the statistical effects of a small spastin-overexpressing population. After attempting a myriad of methods, I pivoted to incorporate pseudobulk differential expression and ranked-gene scoring to stabilize variance and reduce bias from the small sample size. Interestingly, the spastin-overexpressed population appeared to be more prevalent in the differentiated ameloblasts despite having impaired proliferative populations, prompting yet another challenge. This led me to conduct a CellChat and SCENIC workflow focusing on the interactions between these cell populations, and I found that proliferative populations retained high levels of T-box transcription factor 1 (TBX1). Additionally, other undifferentiated populations retained upregulated proliferation pathways. Although the technical outcome was not what was expected, the experience strengthened my scientific resilience and ability to pivot in the face of experimental failure. I hypothesize that Tbx1 and Mafb are essential transcription factors in cell differentiation of the labial cervical loop, and further study can illuminate pathways relevant to tissue repair and gene therapy, transforming abstract mechanisms I investigate into actionable science."
+  },
+  {
+    "objectID": "research.html#ucla-bruins-in-genomics-b.i.g.---dr.-hu-lab",
+    "href": "research.html#ucla-bruins-in-genomics-b.i.g.---dr.-hu-lab",
+    "title": "Research",
+    "section": "",
+    "text": "UCLA: My earlier work improved crops for underprivileged communities, but I wanted to make a deeper impact by uncovering the molecular mechanisms that allow life to regenerate. Through Dr. Jimmy Hu at  UCLA’s B.I.G. program, my research investigated how regenerative populations, dental epithelial stem cells in the labial cervical loop of the mouse incisor, function differently in spastin overexpression; an enzyme involved in microtubule dynamics, which severs the microtubules to reduce Amelogenin, E-Cadherin, and Sonic Hedgehog (Shh) expression, generating a mutant population of altered cell arrangement. The analysis of the mutants was an ideal playground to learn computational scRNA-sequencing skills. However, early on, the issue was tackling the statistical effects of a small spastin-overexpressing population. After attempting a myriad of methods, I pivoted to incorporate pseudobulk differential expression and ranked-gene scoring to stabilize variance and reduce bias from the small sample size. Interestingly, the spastin-overexpressed population appeared to be more prevalent in the differentiated ameloblasts despite having impaired proliferative populations, prompting yet another challenge. This led me to conduct a CellChat and SCENIC workflow focusing on the interactions between these cell populations, and I found that proliferative populations retained high levels of T-box transcription factor 1 (TBX1). Additionally, other undifferentiated populations retained upregulated proliferation pathways. Although the technical outcome was not what was expected, the experience strengthened my scientific resilience and ability to pivot in the face of experimental failure. I hypothesize that Tbx1 and Mafb are essential transcription factors in cell differentiation of the labial cervical loop, and further study can illuminate pathways relevant to tissue repair and gene therapy, transforming abstract mechanisms I investigate into actionable science.\nSHARMA: In Dr. Sharma’s plant genetics laboratory at Cal Poly Pomona, my project focused on Pre- and Post-Fertilization Molecular Dynamics in Aquilegia Carpel Development. As a research assistant, I adopted RNA sequencing and reference-based transcriptome analysis techniques to investigate this novel system representing an early-diverging eudicot, and provide a window into the origins of floral complexity. Through transcriptomic profiling and scanning electron microscopy, I investigated the ABCDE model; MADs-BOX genes that govern carpel and ovule development, tracing how shifts in gene networks may have driven the diversification of reproductive structures across angiosperms. Through DESeq2 and cluster analysis, we identified crucial candidate genes, such as C-class Aquilegia homolog AqAg1, that can be instrumental in the successful transition to reproductive organs, such as carpels, from three developmental stages and ovules from pre- and post-pollination.\nFurther, while writing the manuscript, the genes’ divergent regulation across lineages prompted new questions: Could understanding these networks reveal how cells coordinate to repair or reshape tissues in other organisms? However, Dr. Sharma’s influence taught me what extends beyond these questions, particularly through agricultural innovation to support marginalized communities. As genes such as C-class Aquilegia homolog AqAg1 can be instrumental in the successful transition to reproductive organs such as carpels, they can improve yield in the floricultural industry.  Moreover, drafting grant proposals and presenting posters to explain these concepts instilled in me fundamental skills in communicating my science to a wider audience. Resulting in my project being awarded the Agricultural Research Institute Fellowship Grant, Project Hatchery Grant, STARs Program researcher, and my work will contribute to a manuscript with me as a co-first author.\nLeong: Inspired by my work in agriculture, I became fascinated with how the human-regulated environment influences pollinators, further diminishing yield and the groups that depend on them. I joined Dr. Joan Leong’s entomology lab at Cal Poly Pomona in my sophomore year to investigate how Xenoglossa, Peponapis squash bees interact with government-supported pesticides. In the lab, I collaborated with Emily Roman, a Master’s student, to design her experiment of recording the approach and visiting behaviors of bees to squash flowers. The results yield that pesticides approved by the USDA and FDA reduce squash bee activities relative to the interval of honey bees, which explains the neglect to differentiate the species of pollinators present in agriculture. The skills I gained from Dr. Leong’s lab allowed me to solve problems holistically and continue helping underprivileged communities, as we continue to help these farmers, preliminarily shifting their chemicals to those that acknowledge biodiversity and encourage yield."
+  },
+  {
+    "objectID": "research.html#ucla-poster-1",
+    "href": "research.html#ucla-poster-1",
+    "title": "Research",
+    "section": "UCLA Poster",
+    "text": "UCLA Poster\nSHARMA: In Dr. Sharma’s plant genetics laboratory at Cal Poly Pomona, my project focused on Pre- and Post-Fertilization Molecular Dynamics in Aquilegia Carpel Development. As a research assistant, I adopted RNA sequencing and reference-based transcriptome analysis techniques to investigate this novel system representing an early-diverging eudicot, and provide a window into the origins of floral complexity. Through transcriptomic profiling and scanning electron microscopy, I investigated the ABCDE model; MADs-BOX genes that govern carpel and ovule development, tracing how shifts in gene networks may have driven the diversification of reproductive structures across angiosperms. Through DESeq2 and cluster analysis, we identified crucial candidate genes, such as C-class Aquilegia homolog AqAg1, that can be instrumental in the successful transition to reproductive organs, such as carpels, from three developmental stages and ovules from pre- and post-pollination.\nFurther, while writing the manuscript, the genes’ divergent regulation across lineages prompted new questions: Could understanding these networks reveal how cells coordinate to repair or reshape tissues in other organisms? However, Dr. Sharma’s influence taught me what extends beyond these questions, particularly through agricultural innovation to support marginalized communities. As genes such as C-class Aquilegia homolog AqAg1 can be instrumental in the successful transition to reproductive organs such as carpels, they can improve yield in the floricultural industry.  Moreover, drafting grant proposals and presenting posters to explain these concepts instilled in me fundamental skills in communicating my science to a wider audience. Resulting in my project being awarded the Agricultural Research Institute Fellowship Grant, Project Hatchery Grant, STARs Program researcher, and my work will contribute to a manuscript with me as a co-first author."
+  },
+  {
+    "objectID": "research.html#ucla-poster-2",
+    "href": "research.html#ucla-poster-2",
+    "title": "Research",
+    "section": "UCLA Poster",
+    "text": "UCLA Poster\nLeong: Inspired by my work in agriculture, I became fascinated with how the human-regulated environment influences pollinators, further diminishing yield and the groups that depend on them. I joined Dr. Joan Leong’s entomology lab at Cal Poly Pomona in my sophomore year to investigate how Xenoglossa, Peponapis squash bees interact with government-supported pesticides. In the lab, I collaborated with Emily Roman, a Master’s student, to design her experiment of recording the approach and visiting behaviors of bees to squash flowers. The results yield that pesticides approved by the USDA and FDA reduce squash bee activities relative to the interval of honey bees, which explains the neglect to differentiate the species of pollinators present in agriculture. The skills I gained from Dr. Leong’s lab allowed me to solve problems holistically and continue helping underprivileged communities, as we continue to help these farmers, preliminarily shifting their chemicals to those that acknowledge biodiversity and encourage yield."
+  },
+  {
+    "objectID": "research.html#ucla-bruins-in-genomics-b.i.g-hu-lab",
+    "href": "research.html#ucla-bruins-in-genomics-b.i.g-hu-lab",
+    "title": "Research",
+    "section": "",
+    "text": "Through Dr. Jimmy Hu at  UCLA’s B.I.G. program, my research investigated how regenerative populations, dental epithelial stem cells in the labial cervical loop of the mouse incisor, function differently in spastin overexpression; an enzyme involved in microtubule dynamics, which severs the microtubules to reduce Amelogenin, E-Cadherin, and Sonic Hedgehog (Shh) expression, generating a mutant population of altered cell arrangement. The analysis of the mutants was an ideal playground to learn computational scRNA-sequencing skills. However, early on, the issue was tackling the statistical effects of a small spastin-overexpressing population. After attempting a myriad of methods, I pivoted to incorporate pseudobulk differential expression and ranked-gene scoring to stabilize variance and reduce bias from the small sample size. Interestingly, the spastin-overexpressed population appeared to be more prevalent in the differentiated ameloblasts despite having impaired proliferative populations, prompting yet another challenge.\nThis led me to conduct a CellChat and SCENIC workflow focusing on the interactions between these cell populations, and I found that proliferative populations retained high levels of T-box transcription factor 1 (TBX1). Additionally, other undifferentiated populations retained upregulated proliferation pathways. Although the technical outcome was not what was expected, the experience strengthened my scientific resilience and ability to pivot in the face of experimental failure. I hypothesize that Tbx1 and Mafb are essential transcription factors in cell differentiation of the labial cervical loop, and further study can illuminate pathways relevant to tissue repair and gene therapy, transforming abstract mechanisms I investigate into actionable science."
+  },
+  {
+    "objectID": "research.html#california-state-university-cal-poly-pomona-biological-sciences-department---sharma-lab",
+    "href": "research.html#california-state-university-cal-poly-pomona-biological-sciences-department---sharma-lab",
+    "title": "Research",
+    "section": "California State University, Cal Poly Pomona, Biological Sciences Department - Sharma Lab",
+    "text": "California State University, Cal Poly Pomona, Biological Sciences Department - Sharma Lab\nSHARMA: In Dr. Sharma’s plant genetics laboratory at Cal Poly Pomona, my project focused on Pre- and Post-Fertilization Molecular Dynamics in Aquilegia Carpel Development. As a research assistant, I adopted RNA sequencing and reference-based transcriptome analysis techniques to investigate this novel system representing an early-diverging eudicot, and provide a window into the origins of floral complexity. Through transcriptomic profiling and scanning electron microscopy, I investigated the ABCDE model; MADs-BOX genes that govern carpel and ovule development, tracing how shifts in gene networks may have driven the diversification of reproductive structures across angiosperms. Through DESeq2 and cluster analysis, we identified crucial candidate genes, such as C-class Aquilegia homolog AqAg1, that can be instrumental in the successful transition to reproductive organs, such as carpels, from three developmental stages and ovules from pre- and post-pollination.\nFurther, while writing the manuscript, the genes’ divergent regulation across lineages prompted new questions: Could understanding these networks reveal how cells coordinate to repair or reshape tissues in other organisms? However, Dr. Sharma’s influence taught me what extends beyond these questions, particularly through agricultural innovation to support marginalized communities. As genes such as C-class Aquilegia homolog AqAg1 can be instrumental in the successful transition to reproductive organs such as carpels, they can improve yield in the floricultural industry.  Moreover, drafting grant proposals and presenting posters to explain these concepts instilled in me fundamental skills in communicating my science to a wider audience. Resulting in my project being awarded the Agricultural Research Institute Fellowship Grant, Project Hatchery Grant, STARs Program researcher, and my work will contribute to a manuscript with me as a co-first author."
+  },
+  {
+    "objectID": "research.html#california-state-university-cal-poly-pomona-biological-sciences-department---leong-lab",
+    "href": "research.html#california-state-university-cal-poly-pomona-biological-sciences-department---leong-lab",
+    "title": "Research",
+    "section": "California State University, Cal Poly Pomona, Biological Sciences Department - Leong Lab",
+    "text": "California State University, Cal Poly Pomona, Biological Sciences Department - Leong Lab\nLeong: Inspired by my work in agriculture, I became fascinated with how the human-regulated environment influences pollinators, further diminishing yield and the groups that depend on them. I joined Dr. Joan Leong’s entomology lab at Cal Poly Pomona in my sophomore year to investigate how Xenoglossa, Peponapis squash bees interact with government-supported pesticides. In the lab, I collaborated with Emily Roman, a Master’s student, to design her experiment of recording the approach and visiting behaviors of bees to squash flowers. The results yield that pesticides approved by the USDA and FDA reduce squash bee activities relative to the interval of honey bees, which explains the neglect to differentiate the species of pollinators present in agriculture. The skills I gained from Dr. Leong’s lab allowed me to solve problems holistically and continue helping underprivileged communities, as we continue to help these farmers, preliminarily shifting their chemicals to those that acknowledge biodiversity and encourage yield."
+  },
+  {
+    "objectID": "research.html#csu-cal-poly-pomona---sharma-lab",
+    "href": "research.html#csu-cal-poly-pomona---sharma-lab",
+    "title": "Research",
+    "section": "CSU, Cal Poly Pomona - Sharma Lab",
+    "text": "CSU, Cal Poly Pomona - Sharma Lab\n\nIn Dr. Sharma’s plant genetics laboratory at Cal Poly Pomona, my project focused on Pre- and Post-Fertilization Molecular Dynamics in Aquilegia Carpel Development. As a research assistant, I adopted RNA sequencing and reference-based transcriptome analysis techniques to investigate this novel system representing an early-diverging eudicot, and provide a window into the origins of floral complexity. Through transcriptomic profiling and scanning electron microscopy, I investigated the ABCDE model; MADs-BOX genes that govern carpel and ovule development, tracing how shifts in gene networks may have driven the diversification of reproductive structures across angiosperms. Through DESeq2 and cluster analysis, we identified crucial candidate genes, such as C-class Aquilegia homolog AqAg1, that can be instrumental in the successful transition to reproductive organs, such as carpels, from three developmental stages and ovules from pre- and post-pollination.\nFurther, while writing the manuscript, the genes’ divergent regulation across lineages prompted new questions: Could understanding these networks reveal how cells coordinate to repair or reshape tissues in other organisms? However, Dr. Sharma’s influence taught me what extends beyond these questions, particularly through agricultural innovation to support marginalized communities. As genes such as C-class Aquilegia homolog AqAg1 can be instrumental in the successful transition to reproductive organs such as carpels, they can improve yield in the floricultural industry.  Moreover, drafting grant proposals and presenting posters to explain these concepts instilled in me fundamental skills in communicating my science to a wider audience. Resulting in my project being awarded the Agricultural Research Institute Fellowship Grant, Project Hatchery Grant, STARs Program researcher, and my work will contribute to a manuscript with me as a co-first author."
+  },
+  {
+    "objectID": "research.html#csu-cal-poly-pomona---leong-lab",
+    "href": "research.html#csu-cal-poly-pomona---leong-lab",
+    "title": "Research",
+    "section": "CSU, Cal Poly Pomona - Leong Lab",
+    "text": "CSU, Cal Poly Pomona - Leong Lab\n\nInspired by my work in agriculture, I became fascinated with how the human-regulated environment influences pollinators, further diminishing yield and the groups that depend on them. I joined Dr. Joan Leong’s entomology lab at Cal Poly Pomona in my sophomore year to investigate how Xenoglossa, Peponapis squash bees interact with government-supported pesticides. In the lab, I collaborated with Emily Roman, a Master’s student, to design her experiment of recording the approach and visiting behaviors of bees to squash flowers. The results yield that pesticides approved by the USDA and FDA reduce squash bee activities relative to the interval of honey bees, which explains the neglect to differentiate the species of pollinators present in agriculture. The skills I gained from Dr. Leong’s lab allowed me to solve problems holistically and continue helping underprivileged communities, as we continue to help these farmers, preliminarily shifting their chemicals to those that acknowledge biodiversity and encourage yield."
+  },
+  {
+    "objectID": "research.html#pathways-to-stem---oakcrest-institute-of-science",
+    "href": "research.html#pathways-to-stem---oakcrest-institute-of-science",
+    "title": "Research",
+    "section": "Pathways to STEM - Oakcrest Institute of Science",
+    "text": "Pathways to STEM - Oakcrest Institute of Science\n\n\n\n\n\n\n\nAt the Oak Crest Institute of Science, we investigated how cell size and shape determine cell function in cheek cells. I autonomously designed lab protocols for myself and interns, including those for cryostats, fluorescence, and electron microscopy. Although these contributions did lead to a paper, I trained interns in imaging techniques, structured workflow schedules, and ensured reproducibility across future experiments, skills that shape my approach in my developmental studies."
+  },
+  {
+    "objectID": "presentations.html#talks-presentations",
+    "href": "presentations.html#talks-presentations",
+    "title": "Presentations",
+    "section": "TALKS & PRESENTATIONS",
+    "text": "TALKS & PRESENTATIONS\nAgricultural Research Institute Annual Workshop, Sacramento, CA — November 2024\nStudying Floral Organ Maturation in Aquilegia\nPresented research on developmental processes and genetic regulation of floral organ maturation.\nPathways to STEM Reflection Session, Monrovia, CA — December 2023\nExploring and Measuring Cell Volumes and Their Implied Functions – A Comprehensive Review\nReviewed relationships between cell size, structure, and biological function across systems."
+  },
+  {
+    "objectID": "presentations.html#project-presentations",
+    "href": "presentations.html#project-presentations",
+    "title": "Presentations",
+    "section": "PROJECT PRESENTATIONS",
+    "text": "PROJECT PRESENTATIONS\nHatchery Project Proposal – Phase III, Pomona, CA — February 2025\nUnderstanding the Genetic and Molecular Changes in Carpels Pre- and Post-Pollination in Aquilegia\nProposed a research framework to study molecular changes in reproductive development, including experimental design and hypotheses."
+  },
+  {
+    "objectID": "leadership.html",
+    "href": "leadership.html",
+    "title": "Leadership",
+    "section": "",
+    "text": "&lt;div class=\"carousel-item active\"&gt;\n  &lt;img src=\"photos/sacnas1.png\" class=\"d-block w-100\" alt=\"SACNAS 1\"&gt;\n&lt;/div&gt;\n&lt;div class=\"carousel-item\"&gt;\n  &lt;img src=\"photos/sacnas2.png\" class=\"d-block w-100\" alt=\"SACNAS 2\"&gt;\n&lt;/div&gt;\n&lt;div class=\"carousel-item\"&gt;\n  &lt;img src=\"photos/prete2.png\" class=\"d-block w-100\" alt=\"Prete 2\"&gt;\n&lt;/div&gt;\n&lt;div class=\"carousel-item\"&gt;\n  &lt;img src=\"photos/alma1.jpg\" class=\"d-block w-100\" alt=\"ALMA 1\"&gt;\n&lt;/div&gt;\n\n  Previous    Next"
+  },
+  {
+    "objectID": "leadership.html#my-leadership-timeline",
+    "href": "leadership.html#my-leadership-timeline",
+    "title": "Leadership",
+    "section": "",
+    "text": "```{r} library(timevis) library(htmltools)\ndata &lt;- data.frame( id = 1:3, content = c( “🚑 Red CrossTransportation/Disaster Specialist”, “🥫 Shepherd’s PantryFood Distributor”, “🎓 Prete FellowshipClass Volunteer” ), start = c(“2025-04-01”, “2025-05-01”, “2025-03-01”), end = c(“2026-04-28”, “2026-04-28”, “2025-12-31”), className = c(“redcross”, “pantry”, “prete”) )\nbrowsable( tagList( tags$style(HTML(” .vis-timeline { border-radius: 18px; border: none !important; box-shadow: 0 8px 24px rgba(0,0,0,.08); background: #fffafc; }\n  .vis-item {\n    border-radius: 16px !important;\n    padding: 10px !important;\n    font-weight: 600;\n  }\n\n  .vis-item.redcross {\n    background: #ffe3e3 !important;\n    border-color: #ff8787 !important;\n  }\n\n  .vis-item.pantry {\n    background: #fff3bf !important;\n    border-color: #f59f00 !important;\n  }\n\n  .vis-item.prete {\n    background: #e5dbff !important;\n    border-color: #9775fa !important;\n  }\n\n  .role-sub {\n    font-size: 0.85em;\n    opacity: 0.8;\n  }\n\")),\n\ntimevis(data, options = list(stack = FALSE))\n) )"
+  },
+  {
+    "objectID": "service.html",
+    "href": "service.html",
+    "title": "Service",
+    "section": "",
+    "text": "+\n-"
+  },
+  {
+    "objectID": "service.html#american-red-cross",
+    "href": "service.html#american-red-cross",
+    "title": "Service",
+    "section": "AMERICAN RED CROSS",
+    "text": "AMERICAN RED CROSS\nI served as a Mass Care Member with the American Red Cross during the Dillon wildfires in 2025, supporting community members who had lost their homes. In this role, I collaborated with organizations such as the Salvation Army and World Central Kitchen to assist with feeding operations, shelter coordination, and large-scale distribution of essential supplies. This experience strengthened my ability to communicate with compassion and work effectively in high-pressure environments while contributing to community recovery efforts."
+  },
+  {
+    "objectID": "service.html#shepherds-pantry",
+    "href": "service.html#shepherds-pantry",
+    "title": "Service",
+    "section": "SHEPHERD’S PANTRY",
+    "text": "SHEPHERD’S PANTRY\nShepherd’s Pantry is an organization that provides non-perishable food, clothing, and resource counseling support services to homeless and low-income families in times of crisis. My role involved inventory management through computer systems and contributing to social advocacy efforts with city councils and school districts. Through this experience, I had the opportunity to connect with individuals from diverse backgrounds and help promote their independence and well-being."
+  },
+  {
+    "objectID": "service.html#prete-fellowship",
+    "href": "service.html#prete-fellowship",
+    "title": "Service",
+    "section": "PRETE FELLOWSHIP",
+    "text": "PRETE FELLOWSHIP\nI joined the Prete Fellowship at Kellogg Elementary School, where I taught students from diverse backgrounds sustainable gardening skills to promote equitable access to food education. I also developed lesson plans designed to engage students in learning about food systems and environmental sustainability. This experience allowed me to support student learning through hands-on, community-centered education."
+  },
+  {
+    "objectID": "leadership.html#leadership-stories",
+    "href": "leadership.html#leadership-stories",
+    "title": "Leadership",
+    "section": "LEADERSHIP STORIES",
+    "text": "LEADERSHIP STORIES\n\n\n\nSACNAS\nWanting to cultivate that same growth within my community, a few friends established a SACNAS chapter — the Society for the Advancement of Chicanos/Hispanics and Native Americans in Science. This nonprofit provides a platform for minority scientists to address systemic issues. We partnered with industries that offer research opportunities while professors led workshops and mentorship programs, where members earned over $1,500.\n\n\n\n\n\nBIOLA\nThe Biology Learning Assistant Program is a faculty-supported initiative to strengthen foundational biological sciences at Cal Poly Pomona. I taught biostatistics, computational biology, and cell biology to hundreds of students, while helping evaluate and refine curriculum to improve accessibility between lab and lecture.\n\n\n\n\n\nASM\nThrough the Achieve Scholars Mentorship Program, I mentor undergraduates from underrepresented communities. I guide students from entering their first research experiences to presenting at conferences, while also developing and leading workshops such as Essay Building, Scholarships 101, and Resume Building.\n\n\n\n\n\nALMA\nIn the Aspire-Learn-Mentor-Achieve program, I provide mentorship and educational workshops focused on academic advancement, financial aid literacy, and post–high school planning. I also design lesson plans that help students from underserved communities build competitive college applications.\n\n\n\n\n\nHATCHERY\nThrough Cal Poly Pomona’s Projects Hatchery, I developed my skills in innovation, and grant writing by turning research ideas into actionable proposals. The program supports students from all majors in building meaningful projects from conception to implementation, with guidance throughout each stage of development. Building on my previous success securing the Agricultural Research Institute Fellowship, the STARs Program award, and the Project Hatchery Grant, this experience further strengthened my ability to write competitive proposals and prepared me to apply to the UCD Graduate Research Mentorship."
+  }
+]

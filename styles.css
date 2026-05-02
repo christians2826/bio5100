@@ -1,0 +1,134 @@
+/* css styles */
+/* Section headers (adds line like your CV) */
+/* Overall text */
+/* Section headers (big titles like HONORS AND GRANTS) */
+main.content h2 {
+  color: #0b3d2e !important;
+  border-bottom: 1px solid #0b3d2e !important;
+  padding-bottom: 4px;
+  margin-bottom: 14px;
+  text-transform: uppercase;
+  font-weight: 700;
+  letter-spacing: 0.5px;
+}
+
+/* Body text */
+main.content p,
+main.content li {
+  color: #ffffff !important;
+}
+
+/* Bullet dots ONLY */
+main.content li::marker {
+  color: #ffffff !important;
+}
+
+/* Links */
+main.content a {
+  color: #0b3d2e !important;
+  text-decoration: underline;
+}
+
+main.content a:hover {
+  color: #14532d !important;
+}
+
+h1, h2, h3, p, li {
+  text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.2);
+}
+
+/* =========================
+   STORY CARDS
+========================= */
+
+.story-card {
+  background: rgba(40, 40, 40, 0.35);
+  border: 1.5px solid rgba(0, 80, 60, 0.35);
+  border-left: 6px solid #005c4b;
+  border-radius: 18px;
+  padding: 1.5rem 1.75rem;
+  margin: 1.5rem 0 2rem 0;
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.15);
+  transition: all 0.25s ease;
+}
+
+/* Hover effect */
+.story-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 10px 25px rgba(0,0,0,0.25);
+}
+
+/* Title (for ### headings) */
+.story-card h3 {
+  margin-top: 0;
+  margin-bottom: 0.75rem;
+  color: #005c4b;
+  text-transform: uppercase;
+  font-weight: 700;
+  font-size: 1.3rem;
+}
+
+/* Paragraph inside cards */
+.story-card p {
+  margin: 0;
+  line-height: 1.7;
+}
+
+/* Remove blur inside cards */
+.story-card h3,
+.story-card p {
+  text-shadow: none;
+}
+
+/* =========================
+   IMAGE GRID LAYOUT
+========================= */
+
+.grid-card {
+  display: grid;
+  grid-template-columns: 160px 1fr;
+  gap: 1.25rem;
+  align-items: start;
+}
+
+/* Image styling */
+.story-img {
+  width: 100%;
+  height: 130px;
+  object-fit: cover;
+  object-position: center;
+  border-radius: 10px;
+  display: block;
+}
+
+/* =========================
+   MOBILE RESPONSIVE
+========================= */
+
+@media (max-width: 768px) {
+  .grid-card {
+    grid-template-columns: 1fr;
+  }
+
+  .story-img {
+    width: 100%;
+    height: 200px;
+  }
+}
+
+#leadershipCarousel {
+  max-width: 700px;
+  margin: 1rem auto 2rem auto;
+}
+
+#leadershipCarousel .carousel-item img {
+  width: 100%;
+  height: 420px;
+  object-fit: cover;
+  border-radius: 12px;
+}
+
+#leadershipCarousel .carousel-control-prev-icon,
+#leadershipCarousel .carousel-control-next-icon {
+  filter: invert(1);
+} 
